@@ -1,0 +1,22 @@
+{
+	"shootSound": "swings",
+	"ammo": {
+		"copper": "standardCopper",
+		"graphite": "standardDense",
+		"pyratite": "standardIncendiary",
+		"silicon": "standardHoming",
+		"bean": {
+			"speed": 2.0,
+			"damage": 2,
+			"reloadMultiplier": 0.5,
+			"bulletWidth": 7,
+			"bulletHeight": 9,
+			"shootEffect": "shootSmall",
+			"smokeEffect": "shootSmallSmoke",
+			"ammoMultiplier": 2,
+			"backColor": "ac7349",
+			"frontColor": "dcd16b",
+      "status": "beaned"
+		}
+	}
+}

@@ -1,0 +1,8 @@
+{
+  "type": "material",
+  "name": "BEAN",
+  "description": "[accent]BEAN",
+  "hardness": 1,
+  "cost": 1.0,
+  "color": "b25e2b"
+}

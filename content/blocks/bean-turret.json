@@ -1,0 +1,30 @@
+{
+	"type": "DoubleTurret",
+	"name": "BEAN TURRET",
+	"description": "SPRAY THEM WITH BEANS!",
+	"health": 200,
+	"size": 1,
+	"reload": 1,
+	"range": 50,
+	"ammoUseEffect": "shellEjectSmall",
+	"inaccuracy": 50,
+	"rotatespeed": 24,
+	"ammo": {
+		"bean": {
+			"speed": 5.0,
+			"damage": 5,
+			"bulletWidth": 3,
+			"bulletHeight": 4,
+			"shootEffect": "shootSmall",
+			"smokeEffect": "shootSmallSmoke",
+			"ammoMultiplier": 20,
+      "status":  "beaned"
+		}
+	},
+	"requirements": [
+		{ "item": "silver", "amount": 40 },
+		{ "item": "copper", "amount": 70 }
+	],
+	"category": "turret",
+	"research": "duo"
+}
