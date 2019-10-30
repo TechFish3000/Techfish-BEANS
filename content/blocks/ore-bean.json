@@ -1,5 +1,6 @@
 {
 	"type": "OreBlock",
-	"itemDrop": "bean"
+	"itemDrop": "bean",
+  "variants": 2
   
 }
