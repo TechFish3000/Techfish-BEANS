@@ -7,18 +7,18 @@
 	"reload": 1,
 	"range": 50,
 	"ammoUseEffect": "shellEjectSmall",
-	"inaccuracy": 50,
+	"inaccuracy": 25,
 	"rotatespeed": 24,
 	"ammo": {
 		"bean": {
 			"speed": 10.0,
 			"damage": 5,
-			"bulletWidth": 3,
-			"bulletHeight": 4,
+			"bulletWidth": 4,
+			"bulletHeight": 5,
 			"shootEffect": "shootSmall",
 			"smokeEffect": "shootSmallSmoke",
 			"ammoMultiplier": 20,
-      "lightining": 2,
+      "lightining": 3,
       "lightiningLength": 4
 		}
 	},
