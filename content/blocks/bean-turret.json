@@ -8,18 +8,19 @@
 	"range": 50,
 	"ammoUseEffect": "shellEjectSmall",
 	"inaccuracy": 25,
+  "maxAmmo": 90,
 	"rotatespeed": 24,
 	"ammo": {
 		"bean": {
 			"speed": 10.0,
-			"damage": 5,
-			"bulletWidth": 4,
-			"bulletHeight": 5,
+			"damage": 10,
+			"bulletWidth": 5,
+			"bulletHeight": 6,
 			"shootEffect": "shootSmall",
 			"smokeEffect": "shootSmallSmoke",
-			"ammoMultiplier": 20,
+			"ammoMultiplier": 30,
       "lightining": 3,
-      "lightiningLength": 4
+      "lightiningLength": 10
 		}
 	},
 	"requirements": [
