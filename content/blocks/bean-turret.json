@@ -3,7 +3,7 @@
 	"name": "BEAN TURRET",
 	"description": "SPRAY THEM WITH BEANS!",
 	"health": 200,
-	"size": 1,
+	"size": 2,
 	"reload": 1,
 	"range": 50,
 	"ammoUseEffect": "shellEjectSmall",
@@ -11,14 +11,15 @@
 	"rotatespeed": 24,
 	"ammo": {
 		"bean": {
-			"speed": 5.0,
+			"speed": 10.0,
 			"damage": 5,
 			"bulletWidth": 3,
 			"bulletHeight": 4,
 			"shootEffect": "shootSmall",
 			"smokeEffect": "shootSmallSmoke",
 			"ammoMultiplier": 20,
-      "status":  'statusEffects.beaned'
+      "lightining": 2,
+      "lightiningLength": 4
 		}
 	},
 	"requirements": [

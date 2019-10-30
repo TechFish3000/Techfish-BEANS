@@ -1,8 +1,9 @@
 {
   "type": "statusEffect",
+
   "speedMultiplier":  0.1,
   "armourMultiplier": 0.5,
-  "damageMultiplier": 0.75,
-  "effect": "Fx.oily"
+  "damageMultiplier": 0.75
+
 
 }
