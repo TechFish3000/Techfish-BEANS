@@ -5,7 +5,7 @@
 	"health": 200,
 	"size": 2,
 	"reload": 1,
-	"range": 50,
+	"range": 100,
 	"ammoUseEffect": "shellEjectSmall",
 	"inaccuracy": 25,
   "maxAmmo": 90,
@@ -20,7 +20,7 @@
 			"smokeEffect": "shootSmallSmoke",
 			"ammoMultiplier": 30,
       "lightining": 3,
-      "lightiningLength": 10
+      "lightiningLength": 14
 		}
 	},
 	"requirements": [
