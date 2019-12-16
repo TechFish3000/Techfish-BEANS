@@ -27,5 +27,5 @@
 		{ "item": "copper", "amount": 70 }
 	],
 	"category": "turret",
-	"research": "duo"
+	"research": "salvo"
 }
