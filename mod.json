@@ -2,5 +2,6 @@
   "name": "Techfish-BEANS",
   "author": "Techfish3000",
   "description": "[accent]BEANS",
-  "version": 0.20
+  "version": 0.20,
+  "minGameVersion": 126.2
 }
